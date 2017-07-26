@@ -3,6 +3,7 @@
 ----|------------|
 朱兴照 | zzhutianyu    |
 小诺 | Norberta1314	|
+桃子 | peachnie	|
 
 Hello, Github
 ------
